@@ -1,0 +1,24 @@
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MANMJS; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 QIHU 360SE
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+Baiduspider+(+http://www.baidu.com/search/spider.htm”)
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Googlebot/2.1 (+http://www.googlebot.com/bot.html)
+Googlebot/2.1 (+http://www.google.com/bot.html)
+Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html”)
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp”)
+iaskspider/2.0(+http://iask.com/help/help_index.html”)
+Mozilla/5.0 (compatible; iaskspider/1.0; MSIE 6.0)
+Sogou web spider/3.0(+http://www.sogou.com/docs/help/webmasters.htm#07″)
+Sogou Push Spider/3.0(+http://www.sogou.com/docs/help/webmasters.htm#07″)
+Mozilla/5.0 (compatible; YodaoBot/1.0; http://www.yodao.com/help/webmaster/spider/”; )
+msnbot/1.0 (+http://search.msn.com/msnbot.htm”) 
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/2.9.8)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; ja) Presto/2.10.289 Version/12.00
+Mozilla/5.0 (X11; Linux i686; U; cs) Opera 8.54
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25
