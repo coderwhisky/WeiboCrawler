@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="comCookieResource"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/mysql/mysql-connector-java-5.1.13-bin.jar"/>
 	<classpathentry kind="lib" path="lib/weiboAPI/WeiboAPI-1.0.jar"/>
@@ -62,9 +63,10 @@
 	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/spring-jdbc-4.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/spring-tx-4.0.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/webbit-0.4.14.jar"/>
-	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/WebCollector-2.03.jar"/>
+	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/WebCollector-2.03.jar" sourcepath="/WebCollector-master-2.0"/>
 	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/xalan-2.7.1.jar"/>
 	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="lib/webcollector-2.03-bin/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-security-core-3.0.3.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
